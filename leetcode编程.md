@@ -4,8 +4,7 @@
 
 ### 数据结构
 
-链表
-
+1.链表
 ```markdown
 Syntax highlighted code block
 
