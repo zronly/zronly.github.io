@@ -4,7 +4,7 @@
 
 ### 数据结构
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+链表
 
 ```markdown
 Syntax highlighted code block
